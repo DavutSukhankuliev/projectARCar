@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   VRRequiredReferenceSpace: 2
   VROptionalFeatures: 2
-  ARRequiredReferenceSpace: 4
+  ARRequiredReferenceSpace: 2
   AROptionalFeatures: -1
   UseFramebufferScaleFactor: 0
   UseNativeResolution: 0
