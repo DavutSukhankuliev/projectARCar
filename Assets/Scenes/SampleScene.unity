@@ -507,7 +507,7 @@ MonoBehaviour:
   m_vrCullingMask:
     serializedVersion: 2
     m_Bits: 0
-  m_arClearFlags: 1
+  m_arClearFlags: 2
   m_arBackgroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_arCullingMask:
     serializedVersion: 2
@@ -537,7 +537,7 @@ Transform:
   m_GameObject: {fileID: 1443193573}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.3, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
